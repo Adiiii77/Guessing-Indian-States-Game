@@ -40,14 +40,9 @@ If you decide to exit the game before completing it, the names of the states you
 
 ## Screenshots
 
-![Screenshot 1](sample.png)
+<img src="sample.png" alt="A sample look at the game">
 *This is what the game looks like*
 
-![Screenshot 2](game_won.png)
+<img src="game_won.png" alt="YOU WON message when you guess all the states">
 *When you successfully guess all the states*
 
-*Feel free to add more screenshots and captions as needed.*
-
----
-
-Feel free to customize the image filenames, paths, and captions based on your actual screenshot files and preferences.

@@ -40,13 +40,11 @@ If you decide to exit the game before completing it, the names of the states you
 
 ## Screenshots
 
-*Include sample images of your game in action below:*
+![Screenshot 1](sample.png)
+*This is what the game looks like*
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2*
+![Screenshot 2](game_won.png)
+*When you successfully guess all the states*
 
 *Feel free to add more screenshots and captions as needed.*
 

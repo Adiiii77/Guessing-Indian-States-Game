@@ -40,9 +40,10 @@ If you decide to exit the game before completing it, the names of the states you
 
 ## Screenshots
 
-<img src="sample.png" alt="A sample look at the game">
-*This is what the game looks like*
+<h1>What the game looks like -</h1>
+<img src="sample.png" alt="A sample look at the game" height=200>
 
-<img src="game_won.png" alt="YOU WON message when you guess all the states">
+<h1>When you win the game by guessing all the states correctly -</h1>
+<img src="game_won.png" alt="YOU WON message when you guess all the states" height=200>
 *When you successfully guess all the states*
 

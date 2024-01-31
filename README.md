@@ -22,7 +22,34 @@ If you decide to exit the game before completing it, the names of the states you
 
 1. Clone this repository to your local machine.
 
-```bash
-git clone https://github.com/your-username/india-states-guessing-game.git
+    ```bash
+    git clone https://github.com/your-username/india-states-guessing-game.git
+    ```
 
+2. Navigate to the project directory.
 
+    ```bash
+    cd india-states-guessing-game
+    ```
+
+3. Run the game script.
+
+    ```bash
+    python india_states_game.py
+    ```
+
+## Screenshots
+
+*Include sample images of your game in action below:*
+
+![Screenshot 1](screenshots/screenshot1.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](screenshots/screenshot2.png)
+*Caption for Screenshot 2*
+
+*Feel free to add more screenshots and captions as needed.*
+
+---
+
+Feel free to customize the image filenames, paths, and captions based on your actual screenshot files and preferences.
